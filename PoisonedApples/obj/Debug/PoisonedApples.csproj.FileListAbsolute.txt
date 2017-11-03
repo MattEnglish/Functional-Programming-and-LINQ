@@ -1,0 +1,7 @@
+C:\Work\Training\PoisonedApples\PoisonedApples\bin\Debug\PoisonedApples.exe.config
+C:\Work\Training\PoisonedApples\PoisonedApples\bin\Debug\PoisonedApples.exe
+C:\Work\Training\PoisonedApples\PoisonedApples\bin\Debug\PoisonedApples.pdb
+C:\Work\Training\PoisonedApples\PoisonedApples\obj\Debug\PoisonedApples.csprojResolveAssemblyReference.cache
+C:\Work\Training\PoisonedApples\PoisonedApples\obj\Debug\PoisonedApples.csproj.CoreCompileInputs.cache
+C:\Work\Training\PoisonedApples\PoisonedApples\obj\Debug\PoisonedApples.exe
+C:\Work\Training\PoisonedApples\PoisonedApples\obj\Debug\PoisonedApples.pdb
